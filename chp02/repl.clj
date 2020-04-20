@@ -306,7 +306,7 @@
 ;; Returning Functions
 
 (defn inc-maker
-  "Create a cusom incrementor"
+  "Create a custom incrementor"
   [inc-by]
   #(+ % inc-by))
 
