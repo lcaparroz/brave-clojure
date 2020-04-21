@@ -1,4 +1,4 @@
-(ns chp02.hobbit
+(ns chp03.hobbit
   (:gen-class))
 
 (def asym-hobbit-body-parts [{:name "head" :size 3}

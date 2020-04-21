@@ -1,4 +1,4 @@
-(ns chp02.exercises
+(ns chp03.exercises
   (:gen-class))
 
 ;; Exercise 1
